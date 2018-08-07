@@ -1,0 +1,2 @@
+## This directory contains sub-folders including datafiles necessary for plotting figures.
+## The figure format has been slightly changed from original figures because of the copyright for the journal.
